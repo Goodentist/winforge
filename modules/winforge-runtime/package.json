@@ -1,0 +1,13 @@
+{
+  "name": "@winforge/runtime",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.ts",
+  "expo": {
+    "autolinking": {
+      "android": {
+        "modules": ["com.winforge.runtime.WinForgeRuntimeModule"]
+      }
+    }
+  }
+}

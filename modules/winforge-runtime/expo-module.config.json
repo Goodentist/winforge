@@ -1,0 +1,7 @@
+{
+  "name": "winforge-runtime",
+  "platforms": ["android"],
+  "android": {
+    "modules": ["com.winforge.runtime.WinForgeRuntimeModule"]
+  }
+}
